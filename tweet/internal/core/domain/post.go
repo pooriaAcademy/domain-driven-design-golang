@@ -1,6 +1,6 @@
 package domain
 
-import "github.com/pooriaPoorsarvi/event-driven-design-golang/user"
+import "github.com/pooriaAcademy/event-driven-design-golang/user"
 
 type Tweet struct {
 	PostId 			string
@@ -11,7 +11,7 @@ type Tweet struct {
 
 
 func NewTweet(PostId string, UserId string) (*Tweet, error){
-	user.UserServiceInstance.ValidateUserId("a")
+	user.UserServiceInstance.ValidateUserId()
 	return nil, nil
 }
 

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gorilla/mux"
-	"github.com/pooriaPoorsarvi/event-driven-design-golang/tweet"
+	"github.com/pooriaAcademy/event-driven-design-golang/tweet"
 )
 
 func main(){

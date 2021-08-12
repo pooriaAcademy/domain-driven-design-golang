@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="279f5d3d-7fa8-4112-9c88-99e4feba2829" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/post/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/ports/repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/ports/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/service/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/internal/repositories/memory.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/repositories/memory.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/post.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/cmd/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/internal/core/domain/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/domain/post.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/ports/repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/tweet.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/tweet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/user/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/service/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/user.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wbzmBgLTT8Fi0qVYwKfErCtWoV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="true" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>

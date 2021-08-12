@@ -1,4 +1,4 @@
-module github.com/pooriaPoorsarvi/event-driven-design-golang/user
+module github.com/pooriaAcademy/event-driven-design-golang/user
 
 go 1.15
 

@@ -1,9 +1,9 @@
 package post
 
 import (
-	"github.com/pooriaPoorsarvi/event-driven-design-golang/post/internal/core/domain"
-	"github.com/pooriaPoorsarvi/event-driven-design-golang/post/internal/core/service"
-	"github.com/pooriaPoorsarvi/event-driven-design-golang/post/internal/repositories"
+	"github.com/pooriaAcademy/event-driven-design-golang/post/internal/core/domain"
+	"github.com/pooriaAcademy/event-driven-design-golang/post/internal/core/service"
+	"github.com/pooriaAcademy/event-driven-design-golang/post/internal/repositories"
 )
 
 var repo = &repositories.MemoryRepository{Posts: []domain.Post{}}

@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/pooriaPoorsarvi/event-driven-design-golang/post/internal/core/domain"
-	"github.com/pooriaPoorsarvi/event-driven-design-golang/post/internal/core/ports"
+	"github.com/pooriaAcademy/event-driven-design-golang/post/internal/core/domain"
+	"github.com/pooriaAcademy/event-driven-design-golang/post/internal/core/ports"
 )
 
 type PostService struct {
