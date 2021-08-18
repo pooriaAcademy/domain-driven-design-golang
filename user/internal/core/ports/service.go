@@ -3,7 +3,7 @@ package ports
 
 
 type UserService interface {
-	ValidateUserId() bool
+	ValidateUserId(UserId string) error
 }
 
 

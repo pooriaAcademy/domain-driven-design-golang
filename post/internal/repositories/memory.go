@@ -15,6 +15,10 @@ func (this * MemoryRepository) SavePost(post * domain.Post) error {
 	return nil
 }
 
+func (this * MemoryRepository) NewPostId(post * domain.Post) (string, error) {
+	return "new id", nil
+}
+
 
 
 

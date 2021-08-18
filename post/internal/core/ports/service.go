@@ -4,7 +4,7 @@ import "github.com/pooriaAcademy/event-driven-design-golang/post/internal/core/d
 
 type PostService interface {
 	CreatePost(Description string) (* domain.Post, error)
-	ValidatePostId(PostId string) bool
+	ValidatePostId(PostId string) error
 }
 
 

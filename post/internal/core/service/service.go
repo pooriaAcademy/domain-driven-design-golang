@@ -1,6 +1,7 @@
 package service
 
 import (
+	"errors"
 	"github.com/pooriaAcademy/event-driven-design-golang/post/internal/core/domain"
 	"github.com/pooriaAcademy/event-driven-design-golang/post/internal/core/ports"
 )
@@ -16,7 +17,7 @@ func NewPostService(repository ports.PostRepository) * PostService{
 
 
 func (this * PostService) CreatePost(Description string) (* domain.Post, error) {
-	post, err := domain.NewPost(Description)
+	post, err := domain.NewPostWithoutId(Description)
 	if err != nil{
 		return nil, err
 	}
@@ -29,8 +30,8 @@ func (this * PostService) CreatePost(Description string) (* domain.Post, error) 
 
 
 
-func (this * PostService) ValidatePostId(PostId string) bool{
-	return true
+func (this * PostService) ValidatePostId(PostId string) error{
+	return errors.New("post id not valid")
 }
 
 

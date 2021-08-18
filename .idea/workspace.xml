@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="279f5d3d-7fa8-4112-9c88-99e4feba2829" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/post/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/internal/core/domain/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/domain/post.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/post/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/ports/repository.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/post/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/ports/service.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/post/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/service/service.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/post/internal/repositories/memory.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/repositories/memory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/post.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/cmd/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tweet/internal/core/domain/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/domain/post.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tweet/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/ports/repository.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/tweet.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/tweet.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/user/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/ports/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/service/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/internal/repositories/memory.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/repositories/memory.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/internal/core/domain/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/domain/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/ports/service.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/service/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/user.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +74,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
