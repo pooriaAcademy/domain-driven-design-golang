@@ -4,27 +4,31 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279f5d3d-7fa8-4112-9c88-99e4feba2829" name="Changes" comment="">
+    <list default="true" id="279f5d3d-7fa8-4112-9c88-99e4feba2829" name="Changes" comment="project setting changed">
+      <change afterPath="$PROJECT_DIR$/user/internal/handlers/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/internal/repositories/memory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/utils.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/internal/core/domain/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/domain/post.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/ports/repository.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/ports/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/core/service/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/internal/repositories/memory.go" beforeDir="false" afterPath="$PROJECT_DIR$/post/internal/repositories/memory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/internal/core/domain/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/domain/post.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/ports/repository.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/ports/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/core/service/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweet/internal/repositories/memory.go" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/internal/repositories/memory.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/cmd/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/user/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/internal/core/domain/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/domain/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/ports/repository.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/ports/service.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/service/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/user.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Program Files/Go" />
   <component name="Git.Settings">
@@ -39,11 +43,16 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1wbzmBgLTT8Fi0qVYwKfErCtWoV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,7 +67,50 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\code\go\src\github.com\pooriaAcademy\event-driven-design-golang\utils" />
+      <recent name="C:\code\go\src\github.com\pooriaAcademy\event-driven-design-golang\user\internal\handlers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/pooriaAcademy/event-driven-design-golang/user/cmd">
+    <configuration name="go build github.com/pooriaAcademy/event-driven-design-golang" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="event-driven-design-golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pooriaAcademy/event-driven-design-golang" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go.main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/pooriaAcademy/event-driven-design-golang/user/cmd" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="event-driven-design-golang" />
+      <working_directory value="$PROJECT_DIR$/user" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pooriaAcademy/event-driven-design-golang/user/cmd" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/user/cmd/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/pooriaAcademy/event-driven-design-golang/utils" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="event-driven-design-golang" />
+      <working_directory value="$PROJECT_DIR$/utils" />
+      <kind value="PACKAGE" />
+      <package value="github.com/pooriaAcademy/event-driven-design-golang/utils" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/utils/utils.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/pooriaAcademy/event-driven-design-golang/user/cmd" />
+        <item itemvalue="Go Build.go build github.com/pooriaAcademy/event-driven-design-golang/utils" />
+        <item itemvalue="Go Build.go build github.com/pooriaAcademy/event-driven-design-golang" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +127,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="project setting changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="project setting changed" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
