@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="279f5d3d-7fa8-4112-9c88-99e4feba2829" name="Changes" comment="project setting changed">
-      <change afterPath="$PROJECT_DIR$/user/internal/handlers/http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/internal/repositories/memory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/utils.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/cmd/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/user/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/internal/core/domain/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/domain/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/internal/core/ports/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/ports/repository.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/internal/core/ports/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/ports/service.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user/internal/core/service/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/internal/core/service/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/user.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

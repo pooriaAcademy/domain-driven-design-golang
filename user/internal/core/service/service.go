@@ -46,7 +46,6 @@ func (u UserService) ToggleFollowingUser(UserId string, FollowingId string) (*do
 	if _, ok := user2.FollowerUserIds[user1.UserId]; !ok {
 		user2.FollowerUserIds[user1.UserId] = false
 	}
-
 	user1.FollowingUserIds[user2.UserId] = !user1.FollowingUserIds[user2.UserId]
 	user2.FollowerUserIds[user1.UserId]  = !user2.FollowerUserIds[user1.UserId]
 
@@ -57,12 +56,9 @@ func (u UserService) ToggleFollowingUser(UserId string, FollowingId string) (*do
 	}
 
 	user2, err = u.UserRepository.SaveUser(user2)
-
-
 	if err != nil  {
 		return nil, err
 	}
-
 
 	return user1, nil
 }
